@@ -17,4 +17,4 @@ for 480€ to 580€ and $530 to $600
 
 now assembling the unit is pretty straight forward and iv meade everything so you wont need screws but just as a precaution I added 2 M3 screws to lock the tubes to the bridge
 
-https://cults3d.com/es/modelo-3d/variado/diy-digital-bino-nvg
+https://cults3d.com/es/modelo-3d/variado/invd-night-vision-bino
