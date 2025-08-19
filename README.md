@@ -7,6 +7,7 @@ Thease are fully 3D printeable digital Night vision googles. now im going to sta
 save your money till someone else figures out how to acomplish that, this are great if you want to get into NV or if you want a seccond unit that you can let your friends use, or if you want to experience dual tube nods without burning $10000.
 
 now if you somehow read all of this and still want to build em, here is what you will need
+
 <img width="311" height="201" alt="image" src="https://github.com/user-attachments/assets/c59d756a-6201-43e1-bf8b-e685c2fe4827" />
 
 Now the assembly steps are provided with the 3D files for the housing and avilible in the discord server Ive made specificly for this project. trough that discord server ill post 3D models updates for those of you that decide to purchase the files, and in the DS server 
