@@ -1,11 +1,5 @@
 The INVD Binocular
 
-<img width="764" height="835" alt="1" src="https://github.com/user-attachments/assets/b678b83e-9bff-4f24-9477-0498ba849440" />
-<img width="848" height="816" alt="2" src="https://github.com/user-attachments/assets/6694d091-3c7d-491b-9ca8-e35eb41120af" />
-<img width="925" height="843" alt="3" src="https://github.com/user-attachments/assets/09288887-b298-415d-971d-5b67b84a3051" />
-<img width="937" height="693" alt="4" src="https://github.com/user-attachments/assets/92aca75e-5a55-4534-9438-4ff40f21802a" />
-
-
 Thease are fully 3D printeable digital Night vision googles. now im going to start by breaking expectations, this are not L3 Harris Gen 3 Image intensifier tubes, if you are expecting that kind of preformance out of a $600 DIGITAL nvg then I would recomend that you 
 save your money till someone else figures out how to acomplish that, this are great if you want to get into NV or if you want a seccond unit that you can let your friends use, or if you want to experience dual tube nods without burning $10000.
 
@@ -22,3 +16,8 @@ for 480€ to 580€ and $530 to $600
 now assembling the unit is pretty straight forward and iv meade everything so you wont need screws but just as a precaution I added 2 M3 screws to lock the tubes to the bridge
 
 https://cults3d.com/es/modelo-3d/variado/invd-night-vision-bino
+
+<img width="764" height="835" alt="1" src="https://github.com/user-attachments/assets/b678b83e-9bff-4f24-9477-0498ba849440" />
+<img width="848" height="816" alt="2" src="https://github.com/user-attachments/assets/6694d091-3c7d-491b-9ca8-e35eb41120af" />
+<img width="925" height="843" alt="3" src="https://github.com/user-attachments/assets/09288887-b298-415d-971d-5b67b84a3051" />
+<img width="937" height="693" alt="4" src="https://github.com/user-attachments/assets/92aca75e-5a55-4534-9438-4ff40f21802a" />
