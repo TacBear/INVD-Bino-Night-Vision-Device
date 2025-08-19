@@ -1,5 +1,8 @@
 The INVD Binocular
 
+<img width="311" height="201" alt="image" src="https://github.com/user-attachments/assets/c59d756a-6201-43e1-bf8b-e685c2fe4827" />
+
+
 Thease are fully 3D printeable digital Night vision googles. now im going to start by breaking expectations, this are not L3 Harris Gen 3 Image intensifier tubes, if you are expecting that kind of preformance out of a $600 DIGITAL nvg then I would recomend that you 
 save your money till someone else figures out how to acomplish that, this are great if you want to get into NV or if you want a seccond unit that you can let your friends use, or if you want to experience dual tube nods without burning $10000.
 
