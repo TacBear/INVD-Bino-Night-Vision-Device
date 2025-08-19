@@ -20,4 +20,4 @@ https://cults3d.com/es/modelo-3d/variado/invd-night-vision-bino
 <img width="764" height="835" alt="1" src="https://github.com/user-attachments/assets/b678b83e-9bff-4f24-9477-0498ba849440" />
 <img width="848" height="816" alt="2" src="https://github.com/user-attachments/assets/6694d091-3c7d-491b-9ca8-e35eb41120af" />
 <img width="925" height="843" alt="3" src="https://github.com/user-attachments/assets/09288887-b298-415d-971d-5b67b84a3051" />
-<img width="937" height="693" alt="4" src="https://github.com/user-attachments/assets/92aca75e-5a55-4534-9438-4ff40f21802a" />
+<img width="753" height="837" alt="4" src="https://github.com/user-attachments/assets/ad339a6f-51be-450e-948a-94c4f3ec87ec" />
